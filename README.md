@@ -93,4 +93,4 @@ Example document:
   "extracted_at": "2025-08-14T18:30:00+00:00",
   "_source": "alienvault_otx_pulses_subscribed",
   "_page": 1
-}
+}```
